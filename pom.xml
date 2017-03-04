@@ -10,7 +10,7 @@
   <artifactId>status-badges</artifactId>
   <version>0.0.2-SNAPSHOT</version>
   <packaging>hpi</packaging>
-  <url>https://github.com/yannickcr/jenkins-${project.artifactId}-plugin</url>
+  <url>https://github.com/appscode-ci/jenkins-${project.artifactId}-plugin</url>
 
   <repositories>
     <repository>
@@ -50,8 +50,8 @@
   </dependencies>
 
   <scm>
-    <connection>scm:git:git://github.com/yannickcr/jenkins-${project.artifactId}-plugin.git</connection>
-    <developerConnection>scm:git:git@github.com:yannickcr/jenkins-${project.artifactId}-plugin.git</developerConnection>
-    <url>http://github.com/yannickcr/jenkins-${project.artifactId}-plugin</url>
+    <connection>scm:git:git://github.com/appscode-ci/jenkins-${project.artifactId}-plugin.git</connection>
+    <developerConnection>scm:git:git@github.com:appscode-ci/jenkins-${project.artifactId}-plugin.git</developerConnection>
+    <url>https://github.com/appscode-ci/jenkins-${project.artifactId}-plugin</url>
   </scm>
 </project>
