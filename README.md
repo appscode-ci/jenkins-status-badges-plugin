@@ -18,6 +18,5 @@ To get the build informations this plugin is using the API from other plugins.
 
 The followed plugins are currently supported:
 
-* [Clover](http://wiki.jenkins-ci.org/display/JENKINS/Clover+Plugin)
 * [Checkstyle](https://wiki.jenkins-ci.org/display/JENKINS/Checkstyle+Plugin)
 * [DRY](https://wiki.jenkins-ci.org/display/JENKINS/DRY+Plugin)
